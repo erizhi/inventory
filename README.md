@@ -8,7 +8,7 @@ This code was successfully used to run 2 Ebay Stores (pepauto , partforengine)  
 
 Inventory Control, both virtual and inhouse
 Automatic competition on Ebay
-Price grabbing scon will scan competitors and it will atumatically reprice ebay listing, changing price up and down to keep preset position.
+Price grabbing cron will scan competitors and it will automatically re-price ebay listing, changing price up and down to keep preset competitive position.
 
 
 
@@ -16,6 +16,6 @@ It's very messy and there is no framework used, yet its good enougth to run 3 st
 
 Contact me if you need help with installation.
 
-ALso if you want to rebuild it in some framework , I can help you.
-Ask for Quote.
+I can help you if you want to rebuild it in some framework.
+
 I will rebuild it in Zend 1.9 , Codeignitor or any php framework you prefer.
