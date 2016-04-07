@@ -1,0 +1,18 @@
+[production]
+authToken   = ""
+devId       = ""
+appId       = ""
+cert        = "e5fc4a3e-eacf-4048-a36c-769ac681e880"
+gatewaySOAP = "https://api.ebay.com/wsapi"
+
+[sandbox]
+authToken   = "SANDBOX_TOKEN_OF_ABOUT_1000_CHARS"
+devId       = "DDD_SANDBOX"
+appId       = "AAA_SANDBOX"
+cert        = "CCC_SANDBOX"
+gatewaySOAP = "https://api.sandbox.ebay.com/wsapi"
+
+[settings]
+site = "production"
+compatibilityLevel = 551
+
